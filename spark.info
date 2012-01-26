@@ -1,0 +1,7 @@
+name: presenter
+version: 0.0.1
+compatibility: 2.0.1
+
+dependencies: []
+
+tags: ["presenter", "viewmodel", "viewcomposer"]
